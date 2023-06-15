@@ -17,3 +17,5 @@ After downloading the dataset for the first time I chose the frontal part (about
 However, I thought I could try to select more architectural styles to train, so I put in all the images from the dataset and started training (about 2000 images). So I only trained 2000 times, but I think the results are better than before.
 
 ![Image text](https://github.com/JyXuannn/coding-3/blob/main/img-folder2/generated_images_epoch_2670.png)
+
+There were too many images in the dataset so it was impossible to upload them. Just download the dataset and put it in the frontal folder in the data file and it will work. (The link to the dataset has been placed above)
