@@ -10,7 +10,9 @@ With the development of the times, new styles of architecture are emerging all o
 
 Therefore, I searched for a database on architecture and I wanted to train architectural models from the DCGAN method in order to explore more architectural possibilities.
 
-After downloading the dataset for the first time I chose the frontal part (about 500 photos, which I trained 10,000 times to ensure the final result).![Image text](https://github.com/JyXuannn/coding-3/blob/main/img-folder/generated_images_epoch_10000.png)
+After downloading the dataset for the first time I chose the frontal part (about 500 photos, which I trained 10,000 times to ensure the final result).
+
+![Image text](https://github.com/JyXuannn/coding-3/blob/main/img-folder/generated_images_epoch_10000.png)
 
 
 
