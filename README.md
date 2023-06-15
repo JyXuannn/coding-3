@@ -9,3 +9,7 @@
 With the development of the times, new styles of architecture are emerging all over the world, and some of the buildings combine different architectural styles to explore new possibilities.
 
 Therefore, I searched for a database on architecture and I wanted to train architectural models from the DCGAN method in order to explore more architectural possibilities.
+
+
+Therefore, I searched for a database on architecture and I wanted to train architectural models from the DCGAN method in order to explore more architectural possibilities.
+
