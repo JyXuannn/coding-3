@@ -14,6 +14,16 @@ Therefore, I searched for a database on architecture and I wanted to train archi
 
 This is a benchmark dataset for houses prices that contains both visual and textual information. Each house is represened by four images for bedroom, bathroom, kitchen and a frontal image of the house. This is the first dataset that contains images to be used for houses prices estimation. The dataset folder contains 2140 images, 4 images for each house. Also, it contains a text file that contains the textual metadata of the dataset. Each row in the file respesents the number of house in order. The numbers represent number of bedrooms, number of bathrooms, area of the house, zipcode and the price. 
 
+## Why machine learning was chosen
+
+I think machine learning can be used to create more possibilities for the future of human design. When a designer has a fixed idea of a design, it is difficult to expand it, and machine learning can help with this (as in the case of this building)
+
+When designers have been working in a particular field for a long time, they may be influenced by their own experience, aesthetic preferences or limitations, making it difficult to think outside the box. Machine learning, on the other hand, can provide designers with new inspiration and ideas by discovering new design patterns, trends and ideas through the learning and analysis of large amounts of data.
+
+With machine learning algorithms, designers can input large amounts of design data, trend analysis and information about market needs, allowing machine learning models to learn and make inferences. These models can identify patterns, discover hidden correlations and generate new design concepts or offer suggestions for improvement. This collaborative approach helps designers to think outside of their box, open up their minds and explore more possibilities.
+
+These generated designs from GAN can stimulate the designer's imagination, spark new creative thinking, and iterate and optimise with machine learning models to ultimately achieve better design outcomes.
+
 ## Traning
 
 After downloading the dataset for the first time I chose the frontal part (about 500 photos, which I trained 10,000 times to ensure the final result).
