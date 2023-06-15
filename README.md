@@ -21,3 +21,7 @@ However, I thought I could try to select more architectural styles to train, so 
 There were too many images in the dataset so it was impossible to upload them. Just download the dataset and put it in the frontal folder in the data file and it will work. (The link to the dataset has been placed above)
 
 The reference code is mainly week 5 content(DCGAN): https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2023/blob/main/week5/dcgan.ipynb and the previous weeks.
+
+I have also saved an image of the dataset here (in Dropbox)： https://www.dropbox.com/scl/fo/s3xs8k4zqtn1lfk4r0adb/h?dl=0&rlkey=6e94nzedk49j9vqn9plxai3gd
+
+There are also images of the training process (one saved for every 10 epoch of training)： https://www.dropbox.com/scl/fo/8fhrpuv4lr24r2aqt42tt/h?dl=0&rlkey=d0rxw6jy9io2exxc9pd3dl5t2
