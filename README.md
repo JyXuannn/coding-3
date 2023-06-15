@@ -19,3 +19,5 @@ However, I thought I could try to select more architectural styles to train, so 
 ![Image text](https://github.com/JyXuannn/coding-3/blob/main/img-folder2/generated_images_epoch_2670.png)
 
 There were too many images in the dataset so it was impossible to upload them. Just download the dataset and put it in the frontal folder in the data file and it will work. (The link to the dataset has been placed above)
+
+The reference code is mainly week 5 content(DCGAN): https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2023/blob/main/week5/dcgan.ipynb and the previous weeks.
